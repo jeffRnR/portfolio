@@ -39,6 +39,8 @@
     flex-direction: column;
     background-color: #f9f6f6;
     height: auto;
+    margin: 0;
+    padding: 0;
   }
   body::-webkit-scrollbar {
     display: none;

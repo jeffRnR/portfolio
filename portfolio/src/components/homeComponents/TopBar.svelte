@@ -77,7 +77,7 @@
   }
   .leftTopBarSide p {
     font-family: Georgia, serif;
-    font-size: 14px;
+    font-size: 18px;
     color: #333333;
     font-weight: 600;
     opacity: 0.7;
@@ -89,7 +89,7 @@
     text-align: center;
   }
   .rightTopBarSideDetails {
-    font-size: 15px;
+    font-size: 18px;
     font-family: Georgia, serif;
     padding-left: 10px;
     color: #333333;
